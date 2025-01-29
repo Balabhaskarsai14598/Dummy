@@ -1,0 +1,35 @@
+	Total 5+ Experience in Accountant.
+	Having 2+ years of experience into Service Now Administration and Development 
+	Experience on IT Service Management
+	Experience on creation of Service Catalog, record producers, Order guide. 
+	Good knowledge on Flow designer to Automate the Business Process. 
+	Worked on Creating UI Policies, data Policies and UI Actions. 
+	Worked on Creating Reports, dashboards. 
+	Worked on Service level agreements. 
+	Experience in Creating Custom Tables and Applications. 
+	Experience in creating Email Notifications. 
+	Worked on Inbound Email actions. 
+	Experience in working with Rest Integration for third party systems. 
+	Experience in Creating Users, Roles and Groups. 
+	Experience in Transform Maps and Update Sets. 
+	Highly motivated, quick learner and extremely versatile. Accepts responsibilities, performs the job duties punctually and effectively. Able to work to meet tight deadlines and under work pressure. 
+	Worked on Import Sets using Transform maps. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        OS 	 	: 	Windows 10,11
+        Technologies 	:  	ServiceNow (ITSM) , ServiceNow admin, ServiceNow Development
+ServiceNow Scripiting, Service Catlogs, ACLs, Flow Designers.  
+
